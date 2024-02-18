@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jhenkar1504
 - 👀 I’m interested in IoT, Edge, ML & Robotics
-- 🌱 I’m currently learning Data Engg
+- 🌱 I’m currently playing around Data Engg
 - 💞️ I’m looking to collaborate on IoT & Edge Computing
 - 📫 How to reach me jhenkar.m.s@outlook.com
 
